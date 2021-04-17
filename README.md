@@ -8,8 +8,7 @@ This project is divided into the following tasks
 1. Exploratory Data Analysis </br>
   Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
 
-2. Rank Based Recommendations
-
+2. Rank Based Recommendations </br>
 To get started in building recommendations, you will first find the most popular articles simply based on the most interactions. Since there are no ratings for any of the articles, it is easy to assume the articles with the most interactions are the most popular. These are then the articles we might recommend to new users (or anyone depending on what we know about them).
 
 3. User-User Based Collaborative Filtering
