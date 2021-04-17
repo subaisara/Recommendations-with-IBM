@@ -5,7 +5,7 @@ For this project I analyzed the interactions that users have with articles on th
 
 This project is divided into the following tasks
 
-1. Exploratory Data Analysis
+1. Exploratory Data Analysis </br>
   Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
 
 2. Rank Based Recommendations
